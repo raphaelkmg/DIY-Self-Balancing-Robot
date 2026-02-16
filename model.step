@@ -1,0 +1,11 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('Simple self‑balancing robot model'), '1');
+FILE_NAME('self_balancing_robot.step','2026-02-16T00:00:00',('Your Name'),('DIY Robotics'), '','', '');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2'));
+ENDSEC;
+DATA;
+  /* Placeholder STEP file for the self‑balancing robot.  Replace this with
+     your own STEP export from your CAD software once your model is complete. */
+ENDSEC;
+END-ISO-10303-21;
